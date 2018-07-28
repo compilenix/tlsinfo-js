@@ -1,0 +1,39 @@
+{
+  "name": "tlsinfo",
+  "version": "1.0.0",
+  "description": "Library for inspecting SSL/TLS protocols and ciphers",
+  "main": "index.js",
+  "keywords": [
+    "ssl",
+    "security",
+    "tls",
+    "cipher",
+    "x509"
+  ],
+  "author": "Compilenix",
+  "repository": {
+    "type": "git",
+    "url": "https://git.compilenix.org/Compilenix/tlsinfo-js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "punycode": "^2.1.1",
+    "x509": "^0.3.3"
+  },
+  "devDependencies": {
+    "@types/tlsinfo": "file:types/tlsinfo",
+    "@types/x509": "file:types/x509",
+    "eslint-config-standard": "11.0.0",
+    "eslint-plugin-import": "2.13.0",
+    "eslint-plugin-node": "7.0.1",
+    "eslint-plugin-promise": "3.8.0",
+    "eslint-plugin-standard": "3.1.0",
+    "standard": "11.0.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

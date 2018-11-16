@@ -1,6 +1,6 @@
 {
   "name": "tlsinfo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for inspecting SSL/TLS protocols and ciphers",
   "main": "index.js",
   "keywords": [

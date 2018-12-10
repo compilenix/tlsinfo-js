@@ -1,3 +1,6 @@
+# Donate if you want
+https://www.paypal.me/compilenix
+
 # Description
 Geather detailed information on the TLS / SSL configuration of a given server.
 

@@ -18,18 +18,18 @@
   "license": "MIT",
   "dependencies": {
     "punycode": "^2.1.1",
-    "x509": "^0.3.3"
+    "x509": "^0.3.4"
   },
   "devDependencies": {
     "@types/tlsinfo": "file:types/tlsinfo",
     "@types/x509": "file:types/x509",
-    "eslint-config-standard": "11.0.0",
-    "eslint-plugin-import": "2.13.0",
-    "eslint-plugin-node": "7.0.1",
-    "eslint-plugin-promise": "3.8.0",
-    "eslint-plugin-standard": "3.1.0",
-    "standard": "11.0.1",
-    "eslint": "5.3.0"
+    "eslint-config-standard": "^14.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "standard": "^14.0.2",
+    "eslint": "^6.2.2"
   },
   "directories": {
     "lib": "lib"
